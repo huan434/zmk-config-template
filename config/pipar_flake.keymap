@@ -37,7 +37,7 @@
             // Cấu hình cho 8 phím bấm trên Pipar Flake
             bindings = <
                 &kp TAB         &kp LEFT_WIN    &kp BACKSPACE   &kp UP_ARROW    
-                &kp ENTER       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
+                &kp ENTER       &kp LEFT_ARROW  &kp DOWN_ARROW  &studio_unlock
             >;
             // Xoay núm để tăng/giảm âm lượng
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
